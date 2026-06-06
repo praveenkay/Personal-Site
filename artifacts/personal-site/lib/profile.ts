@@ -123,37 +123,37 @@ export const timeline = [
 
 export const caseStudies = [
   {
-    title: "UnderwriterAI",
-    label: "AI · Insurance · Multi-agent concept",
-    problem: "Underwriting work often involves repeated questions, policy lookup, routine decision support, and broker response delays.",
-    approach: "Designed a TypeScript multi-agent underwriting platform concept to support routine decisions, broker assistance, and actionable intelligence from policy and underwriting data.",
-    outcome: "Demonstrates product thinking at the intersection of insurance operations, AI agents, and decision support.",
-    repo: "https://github.com/praveenkay/UnderwriterAI"
-  },
-  {
     title: "AuditReady OS",
-    label: "Compliance · ISO 27001 · SaaS concept",
-    problem: "Audit teams struggle with scattered evidence, unclear ownership, repeated manual follow-ups, and difficult control traceability.",
-    approach: "Designed an audit and compliance operating system concept for ISO 27001, ICIF, PCI, SOC, evidence tracking, control mapping, risks, and action plans.",
-    outcome: "Connects real audit execution experience with a scalable product vision for governance and compliance teams.",
+    label: "Compliance · ISO 27001 · GRC Platform",
+    problem: "Compliance teams in regulated industries spend excessive time chasing evidence, managing control gaps manually, and preparing for audits with no central system of record.",
+    approach: "Designed a governance and compliance platform for ISO 27001, ICIF, PCI, and SOC — covering evidence tracking, control mapping, risk registers, and audit coordination workflows.",
+    outcome: "A live product concept directly informed by hands-on audit coordination experience at Travelex Insurance. Demonstrates what a practitioner-led GRC tool looks like.",
     repo: "",
     link: "https://auditreadyos.replit.app"
   },
   {
+    title: "UnderwriterAI",
+    label: "AI · Insurance · Multi-Agent Platform",
+    problem: "Underwriting decisions involve repetitive policy lookups, broker queries, and routine approvals that slow cycle times and create inconsistent outcomes across teams.",
+    approach: "Architected a TypeScript multi-agent platform to automate routine underwriting decisions, surface policy intelligence, and provide real-time broker support — built during active work in the insurance sector.",
+    outcome: "Bridges domain expertise in insurance delivery with applied AI product thinking. Demonstrates initiative beyond day-to-day execution.",
+    repo: "https://github.com/praveenkay/UnderwriterAI"
+  },
+  {
     title: "AgentVerse",
-    label: "AI · Multi-agent · Governance Automation",
-    problem: "Delivery and governance teams spend disproportionate time on repetitive coordination, status updates, and documentation tasks.",
-    approach: "Designed a multi-agent orchestration framework to automate governance workflows, reporting, and compliance documentation tasks.",
-    outcome: "Demonstrates applied AI thinking for operational efficiency and governance automation in regulated environments.",
+    label: "AI · Governance Automation · Multi-Agent",
+    problem: "Program managers and governance leads spend disproportionate time on status reporting, evidence collection, and documentation that could be systematically automated.",
+    approach: "Designed a multi-agent orchestration framework applied to governance workflows — automating stakeholder reporting, audit documentation, and control evidence packaging.",
+    outcome: "Practical AI applied to the exact workflows I manage daily. Reduces administrative overhead and improves governance output quality at scale.",
     repo: "https://github.com/praveenkay"
   },
   {
-    title: "Agent Backup",
-    label: "AI · DevTools · Python · Open Source",
-    problem: "AI agent configurations — prompts, skills, memory, sessions — are easily lost during machine migrations, upgrades, or crashes.",
-    approach: "Built a universal Python CLI tool with one-command backup and restore for AI agent environments. Features smart compression, manifest verification, and scheduling.",
-    outcome: "Published open-source tool supporting cross-platform backup for the growing AI agent ecosystem.",
-    repo: "https://github.com/praveenkay/agent-backup"
+    title: "TestMaster & JiraFieldMaster",
+    label: "QA · Jira Governance · Delivery Tooling",
+    problem: "Delivery teams lack test governance visibility, consistent Jira field standards, and reliable reporting — creating noise in release readiness assessments.",
+    approach: "Built internal productivity tools using Python, TypeScript, Flask, and Jira APIs — covering test suite management, field governance enforcement, dashboard analytics, and AI-assisted delivery workflows.",
+    outcome: "Tooling that directly supports release governance and QA maturity — the same problems these tools solve are ones I address for organizations every day.",
+    repo: "https://github.com/praveenkay/TestMaster"
   }
 ];
 
