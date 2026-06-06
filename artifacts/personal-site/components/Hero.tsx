@@ -1,5 +1,5 @@
 import { ArrowUpRight, Download, MapPin } from "lucide-react";
-import { metrics, profile } from "@/lib/profile";
+import { heroCapabilities, metrics, profile } from "@/lib/profile";
 
 export function Hero() {
   return (
@@ -12,9 +12,17 @@ export function Hero() {
           <h1 className="mt-5 max-w-4xl text-balance text-4xl font-semibold tracking-[-0.045em] md:text-6xl">
             {profile.headline}
           </h1>
-          <p className="mt-6 max-w-2xl text-base leading-7 md:text-lg" style={{ color: "var(--muted)" }}>
-            {profile.intro}
+          <p className="mt-4 text-sm leading-6" style={{ color: "var(--muted)" }}>
+            {profile.heroSubheading}
           </p>
+          <ul className="mt-5 grid grid-cols-2 gap-y-2 gap-x-4">
+            {heroCapabilities.map((cap) => (
+              <li key={cap} className="flex items-center gap-2 text-sm" style={{ color: "var(--muted)" }}>
+                <span className="font-semibold" style={{ color: "var(--accent)" }}>✔</span>
+                {cap}
+              </li>
+            ))}
+          </ul>
           <div className="mt-5 flex items-center gap-2 text-sm" style={{ color: "var(--muted)" }}>
             <MapPin size={15} />
             {profile.location}
@@ -24,10 +32,10 @@ export function Hero() {
               Contact Praveen <ArrowUpRight size={15} />
             </a>
             <a href={profile.resumePdf} className="inline-flex items-center justify-center gap-2 rounded-full border px-5 py-3 text-sm font-medium" style={{ borderColor: "var(--line)", background: "var(--card)" }}>
-              Download PDF <Download size={15} />
+              Download Resume <Download size={15} />
             </a>
             <a href={profile.resumePage} className="inline-flex items-center justify-center rounded-full border px-5 py-3 text-sm font-medium" style={{ borderColor: "var(--line)", background: "var(--card)" }}>
-              View resume
+              View Resume
             </a>
           </div>
         </div>

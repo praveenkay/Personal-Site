@@ -1,18 +1,18 @@
-import { bio, focusAreas } from "@/lib/profile";
+import { executiveSummary, focusAreas } from "@/lib/profile";
 import { Section } from "./Section";
 
 export function Bio() {
   return (
     <Section
-      id="bio"
-      eyebrow="Profile"
-      title="A practical operator for regulated technology delivery."
+      id="summary"
+      eyebrow="Executive Summary"
+      title="Turning delivery complexity into predictable, governed outcomes."
       description="Focused on the work leaders actually need done: alignment, governance, execution, evidence, communication, and follow-through."
     >
       <div className="grid gap-5 md:grid-cols-[0.9fr_1.1fr]">
         <div className="rounded-[1.5rem] border p-6" style={{ borderColor: "var(--line)", background: "var(--card)" }}>
           <div className="space-y-4">
-            {bio.map((p) => <p key={p} className="leading-7" style={{ color: "var(--muted)" }}>{p}</p>)}
+            {executiveSummary.map((p) => <p key={p} className="leading-7" style={{ color: "var(--muted)" }}>{p}</p>)}
           </div>
         </div>
         <div className="grid gap-3 sm:grid-cols-2">

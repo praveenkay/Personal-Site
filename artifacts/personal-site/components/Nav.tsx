@@ -2,9 +2,10 @@ import { profile } from "@/lib/profile";
 import { ThemeToggle } from "./ThemeToggle";
 
 const links = [
-  ["Path", "#path"],
-  ["Builds", "#builds"],
   ["Experience", "#experience"],
+  ["GRC", "#grc"],
+  ["AI Initiatives", "#builds"],
+  ["Opportunities", "#opportunities"],
   ["Contact", "#contact"]
 ];
 
@@ -22,8 +23,8 @@ export function Nav() {
         </nav>
         <div className="flex items-center gap-2">
           <ThemeToggle />
-          <a href={profile.resumePage} className="rounded-full border px-4 py-2 text-sm" style={{ borderColor: "var(--line)", background: "var(--card)" }}>
-            Resume
+          <a href={profile.resumePdf} className="rounded-full border px-4 py-2 text-sm" style={{ borderColor: "var(--line)", background: "var(--card)" }}>
+            Download Resume
           </a>
         </div>
       </div>

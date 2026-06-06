@@ -6,9 +6,9 @@ export function Builds() {
   return (
     <Section
       id="builds"
-      eyebrow="What I build"
-      title="AI and workflow products from real operational pain points."
-      description="A builder-style section for hiring managers who want to see initiative, product thinking, and applied AI beyond day-to-day delivery."
+      eyebrow="Innovation & AI Initiatives"
+      title="AI and workflow products built from real operational pain points."
+      description="Applied AI thinking for hiring managers who want to see initiative, product ownership, and practical automation beyond day-to-day delivery."
     >
       <div className="grid gap-4 md:grid-cols-2">
         {caseStudies.map((project) => (

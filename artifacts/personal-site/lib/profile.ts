@@ -1,7 +1,7 @@
 export const profile = {
   name: "Praveen Kothapally",
   title: "Technology Delivery Leader",
-  roleLine: "Program Manager · Scrum Master · Release Governance · Audit & Compliance",
+  roleLine: "Technology Delivery Leader | Program Manager | Release Governance | Audit & Compliance | Agile Transformation",
   location: "Minneapolis / Omaha, United States",
   email: "praveenkay@gmail.com",
   linkedin: "https://www.linkedin.com/in/praveenkay",
@@ -9,18 +9,35 @@ export const profile = {
   resumePdf: "/Praveen_Kothapally_Resume.pdf",
   resumePage: "/resume",
   headshot: "/headshot.png",
-  headline: "I lead complex technology delivery with calm execution, clean governance, and measurable outcomes.",
+  headline: "I help organizations deliver complex technology initiatives with predictable execution, strong governance, audit readiness, and reduced delivery risk.",
   intro:
-    "Senior Program Manager, Scrum Master, and Release Manager with 22+ years across insurance, banking, payments, and enterprise technology. I bring structure to releases, clarity to stakeholders, discipline to Agile teams, and practical AI/automation thinking to everyday delivery work."
+    "Technology Delivery Leader with 22+ years of experience leading enterprise programs, release governance, audit readiness, Agile transformation, and quality engineering across banking, financial services, and insurance. Proven ability to align technology delivery with business objectives while improving governance, reducing operational risk, and driving continuous improvement through automation and AI-enabled solutions.",
+  heroSubheading:
+    "22+ years leading enterprise technology delivery, release governance, audit readiness, quality engineering, and Agile transformation across Banking, Financial Services, and Insurance."
 };
+
+export const heroCapabilities = [
+  "Program Delivery",
+  "Release Governance",
+  "ISO 27001 & Audit Coordination",
+  "Agile Transformation",
+  "Risk & Compliance",
+  "AI-Enabled Process Improvement"
+];
 
 export const metrics = [
   ["22+", "years in technology delivery"],
+  ["100+", "enterprise releases coordinated"],
   ["70%", "manual testing reduction"],
-  ["20%", "productivity improvement"],
-  ["$250K+", "savings from delivery improvement"],
+  ["$250K+", "savings from delivery improvements"],
   ["3", "delivery teams coached"],
   ["Multi-$M", "technology programs supported"]
+];
+
+export const executiveSummary = [
+  "Technology Delivery Leader with 22+ years of experience leading enterprise programs, release governance, Agile delivery, audit readiness, quality engineering, and operational transformation.",
+  "Proven success across banking, financial services, and insurance organizations including BNP Paribas, Travelex Insurance, Zurich, and Cover-More.",
+  "Experienced in leading global teams, coordinating regulatory audits, managing large-scale releases, and driving continuous improvement through automation and AI-enabled solutions."
 ];
 
 export const focusAreas = [
@@ -42,32 +59,65 @@ export const focusAreas = [
   }
 ];
 
-export const bio = [
-  "Praveen Kothapally is a senior technology delivery leader focused on program management, Agile execution, release governance, software quality, audit readiness, and enterprise transformation.",
-  "At Travelex Insurance / Zurich-Cover-More Group, he supports release governance, production deployment coordination, sprint readiness, production validation, ISO 27001, ICIF, PCI, internal controls, third-party risk, and evidence management.",
-  "Previously at Bank of the West / BNP Paribas, he led global delivery and quality initiatives, delivered zero-defect releases, improved automation maturity, reduced manual testing effort by 70%, and helped drive Agile transformation with measurable productivity and cost savings."
+export const bio = executiveSummary;
+
+export const whatISolve = [
+  "Release failures and production risk",
+  "Audit and compliance readiness gaps",
+  "Agile delivery inefficiencies",
+  "Cross-team coordination challenges",
+  "Governance and process maturity",
+  "Quality engineering transformation",
+  "Executive visibility and reporting",
+  "AI adoption for operational efficiency"
+];
+
+export const grcItems = [
+  "ISO 27001 audit coordination and evidence management",
+  "Internal audit response and control validation",
+  "ICIF control implementation and traceability",
+  "PCI assessment support and risk tracking",
+  "Evidence repository management and control mapping",
+  "Risk identification and mitigation planning",
+  "Third-party risk governance",
+  "Audit coordination across engineering and compliance teams"
+];
+
+export const targetRoles = [
+  "Senior Program Manager",
+  "Technical Program Manager",
+  "Release Governance Lead",
+  "Delivery Excellence Lead",
+  "Technology Operations Manager",
+  "GRC Technology Program Manager",
+  "Director, Delivery & Governance"
 ];
 
 export const timeline = [
   {
     period: "2023 — Present",
-    title: "Program Manager / Scrum Master — Travelex Insurance",
+    title: "Program Manager / Scrum Master — Travelex Insurance (Zurich / Cover-More)",
     body: "Release governance, Agile delivery, production validation, ISO 27001, ICIF, PCI, third-party risk, evidence repositories, sanction screening governance, and AI-enabled delivery improvement."
   },
   {
     period: "2018 — 2023",
-    title: "VP Technology Manager / Scrum Master — Bank of the West",
+    title: "VP Technology Manager — Bank of the West / BNP Paribas",
     body: "Multi-million-dollar technology upgrades, vendor governance, software risk management, Agile transformation, automation engineering, DevOps practices, and zero-defect release delivery."
   },
   {
-    period: "2010 — 2018",
-    title: "QA / Scrum / Process Leadership — Apple, Amex, First Tech, Bank of the West",
+    period: "2017 — 2018",
+    title: "AVP Senior Lead QA — Enterprise Banking",
+    body: "Senior QA leadership, test governance, release gating, automation maturity, and delivery execution across banking technology programs."
+  },
+  {
+    period: "2015 — 2017",
+    title: "Senior QA Consultant",
     body: "CRM, banking, reporting, automation frameworks, distributed team leadership, QA gating, CI/CD, BDD/TDD, and enterprise delivery maturity."
   },
   {
-    period: "2002 — 2010",
-    title: "Technical Test Lead / Software Test Engineer",
-    body: "Foundation in software testing, automation, client delivery, onsite-offshore coordination, and enterprise application quality."
+    period: "2002 — 2015",
+    title: "Earlier Leadership & QA Roles — Apple, American Express, First Tech",
+    body: "Foundation in software testing, automation, client delivery, Scrum mastery, Agile ceremonies, onsite-offshore coordination, and enterprise application quality."
   }
 ];
 
@@ -81,14 +131,6 @@ export const caseStudies = [
     repo: "https://github.com/praveenkay/UnderwriterAI"
   },
   {
-    title: "Agent Backup",
-    label: "AI · DevTools · Python · Open Source",
-    problem: "AI agent configurations — prompts, skills, memory, sessions — are easily lost during machine migrations, upgrades, or crashes, with no standard recovery path.",
-    approach: "Built a universal Python CLI tool with one-command backup and restore for Hermes, Claude Code, Codex, and OpenCode. Features smart zstd compression, manifest verification, Telegram bot integration, and cron-based scheduling.",
-    outcome: "Published open-source tool supporting cross-platform backup for the growing AI agent ecosystem.",
-    repo: "https://github.com/praveenkay/agent-backup"
-  },
-  {
     title: "AuditReady OS",
     label: "Compliance · ISO 27001 · SaaS concept",
     problem: "Audit teams struggle with scattered evidence, unclear ownership, repeated manual follow-ups, and difficult control traceability.",
@@ -98,64 +140,98 @@ export const caseStudies = [
     link: "https://auditreadyos.replit.app"
   },
   {
-    title: "TestMaster / JiraFieldMaster",
-    label: "QA · Jira · Automation",
-    problem: "Delivery teams need better test governance, field consistency, dashboard visibility, and less manual reporting.",
-    approach: "Built productivity prototypes using Python, TypeScript, Flask, SQLite, Jira APIs, dashboards, and AI-assisted delivery workflows.",
-    outcome: "Highlights practical automation and internal tooling mindset for improving team execution.",
-    repo: "https://github.com/praveenkay/TestMaster"
+    title: "AgentVerse",
+    label: "AI · Multi-agent · Governance Automation",
+    problem: "Delivery and governance teams spend disproportionate time on repetitive coordination, status updates, and documentation tasks.",
+    approach: "Designed a multi-agent orchestration framework to automate governance workflows, reporting, and compliance documentation tasks.",
+    outcome: "Demonstrates applied AI thinking for operational efficiency and governance automation in regulated environments.",
+    repo: "https://github.com/praveenkay"
+  },
+  {
+    title: "Agent Backup",
+    label: "AI · DevTools · Python · Open Source",
+    problem: "AI agent configurations — prompts, skills, memory, sessions — are easily lost during machine migrations, upgrades, or crashes.",
+    approach: "Built a universal Python CLI tool with one-command backup and restore for AI agent environments. Features smart compression, manifest verification, and scheduling.",
+    outcome: "Published open-source tool supporting cross-platform backup for the growing AI agent ecosystem.",
+    repo: "https://github.com/praveenkay/agent-backup"
   }
 ];
 
 export const achievements = [
-  "Led and supported release governance from sprint readiness through production validation and closure.",
-  "Coached three delivery teams in Agile practices, Scrum ceremonies, and predictable execution.",
-  "Coordinated ISO 27001, ICIF, PCI, internal controls, third-party risk, and evidence management workflows.",
+  "Owned end-to-end release governance across sprint readiness, production deployment coordination, validation, and closure.",
+  "Coordinated ISO 27001, ICIF, and PCI audit programs with cross-functional evidence management and control traceability.",
+  "Led global delivery teams at VP level across banking and insurance technology programs.",
   "Reduced manual testing effort by 70% through automation engineering and DevOps practices.",
-  "Helped drive 20% productivity improvement and measurable cost savings through Agile transformation.",
-  "Built AI-enabled prototypes and product concepts for underwriting, audit readiness, Jira governance, and QA workflows."
+  "Drove 20% productivity improvement and measurable cost savings through enterprise Agile transformation.",
+  "Designed AI-enabled products for underwriting, audit readiness, governance automation, and QA workflows."
 ];
 
 export const experience = [
   {
-    company: "Travelex Insurance - Zurich / Cover-More Group",
-    role: "Program Manager / Scrum Master — Release, Governance, and Compliance",
+    company: "Travelex Insurance — Zurich / Cover-More Group",
+    role: "Program Manager / Scrum Master — Release, Governance & Compliance",
     period: "Dec 2023 — Present",
     bullets: [
-      "Own release governance from sprint readiness through deployment coordination, production validation, retrospective follow-up, and closure.",
+      "Own release governance from sprint readiness through deployment coordination, production validation, and closure.",
       "Lead production deployment calls and manage order of operations across Dev, QA, BA, Infrastructure, and business stakeholders.",
-      "Create release Confluence pages, deployment runbooks, validation documents, release calendars, and communications.",
+      "Create release Confluence pages, deployment runbooks, validation documents, release calendars, and executive communications.",
       "Coordinate ISO 27001, ICIF, PCI, internal controls, evidence repositories, control traceability, and audit response.",
-      "Coach three delivery teams in self-management, Agile practices, Scrum ceremonies, and predictable execution."
+      "Coach three delivery teams in self-management, Agile practices, Scrum ceremonies, and predictable execution.",
+      "Drive AI-enabled workflow improvements and governance automation across delivery operations."
     ]
   },
   {
-    company: "Bank of the West - BNP Paribas",
-    role: "Vice President, Technology Manager and Scrum Master",
+    company: "Bank of the West — BNP Paribas",
+    role: "Vice President, Technology Manager & Scrum Master",
     period: "Oct 2018 — Dec 2023",
     bullets: [
-      "Led multi-million-dollar technology upgrades across retail banking.",
+      "Led multi-million-dollar technology upgrade programs across retail banking operations.",
       "Managed vendor relationships, delivery governance, software risk management, and cross-functional execution.",
-      "Drove Agile transformation achieving 20% productivity improvement and 40% time savings.",
-      "Reduced manual testing effort by 70% through automation engineering and DevOps practices."
+      "Drove enterprise Agile transformation achieving 20% productivity improvement and 40% time savings.",
+      "Reduced manual testing effort by 70% through automation engineering and DevOps practices.",
+      "Delivered $250K+ in savings through delivery process improvement and automation.",
+      "Led global cross-functional teams across business, technology, infrastructure, and vendor stakeholders."
     ]
   },
   {
     company: "Apple, American Express, First Tech Federal Credit Union",
     role: "Scrum Master / Test Manager / Process Implementation Manager",
-    period: "2010 — 2015",
+    period: "2010 — 2018",
     bullets: [
       "Led Agile ceremonies, QA delivery, CRM programs, data services, and reporting initiatives.",
-      "Implemented Jira, Confluence, Jenkins, Selenium, Cucumber, Gherkin, SOAP UI, SQL, and automation workflows.",
-      "Reduced test cycle time and improved release confidence through QA gating and scalable automation."
+      "Implemented Jira, Confluence, Jenkins, Selenium, Cucumber, and automation workflows.",
+      "Reduced test cycle time and improved release confidence through QA gating and scalable automation.",
+      "Led distributed teams across onsite and offshore delivery models."
     ]
+  }
+];
+
+export const skillCategories = [
+  {
+    title: "Delivery Leadership",
+    skills: ["Program Management", "Portfolio Coordination", "Stakeholder Management", "Vendor Management"]
+  },
+  {
+    title: "Release Governance",
+    skills: ["Change Management", "CAB Coordination", "Deployment Planning", "Production Readiness", "Release Calendars", "Runbooks"]
+  },
+  {
+    title: "Compliance & Risk",
+    skills: ["ISO 27001", "ICIF", "PCI", "Third-Party Risk", "Control Evidence", "Risk Management"]
+  },
+  {
+    title: "Agile Leadership",
+    skills: ["Scrum", "Kanban", "SAFe", "Team Coaching", "Agile Transformation"]
+  },
+  {
+    title: "Technology",
+    skills: ["Jira", "Confluence", "AWS", "Python", "TypeScript", "AI Solutions", "Automation", "SharePoint"]
   }
 ];
 
 export const skills = [
   "Program Management",
   "Release Governance",
-  "Scrum Mastery",
   "Agile Transformation",
   "ISO 27001",
   "ICIF",
@@ -163,22 +239,9 @@ export const skills = [
   "Third-Party Risk",
   "Jira",
   "Confluence",
-  "SharePoint",
-  "Xray",
-  "Jenkins",
-  "GitHub",
-  "Postman",
-  "ReadyAPI",
-  "JMeter",
-  "Robot Framework",
-  "Selenium",
-  "Python",
-  "TypeScript",
-  "JavaScript",
-  "SQL",
+  "AWS",
   "AI Agents",
-  "Prompt Engineering",
-  "AWS Certified Cloud Practitioner"
+  "Prompt Engineering"
 ];
 
 export const certifications = [
@@ -211,7 +274,7 @@ export const certifications = [
     link: ""
   },
   {
-    name: "B.E. Electrical and Electronics Engineering",
+    name: "B.E. Electrical & Electronics Engineering",
     issuer: "Bangalore University",
     summary: "Engineering degree foundation supporting technology delivery, systems thinking, and technical leadership.",
     detail: "Bachelor of Engineering in Electrical and Electronics Engineering.",
