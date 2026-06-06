@@ -244,6 +244,23 @@ export const skills = [
   "Prompt Engineering"
 ];
 
+export const recommendations = [
+  {
+    name: "Pat Kostal",
+    title: "Colleague — Bank of the West",
+    linkedin: "https://www.linkedin.com/in/patkostal",
+    quote:
+      "Praveen is always engaged and striving to improve the solutions he and his team implement. He is open to ideas and implements them into a product that is scalable and flexible. With he and his team's automation we were able to improve quality and become much more efficient. He is a great collaborator, leader and team player."
+  },
+  {
+    name: "Michelle N.",
+    title: "Colleague — Bank of the West",
+    linkedin: "https://www.linkedin.com/in/micnewell",
+    quote:
+      "Praveen has setup QA automation for the bank and is very valuable to our organization. Thanks for doing great work Praveen — really enjoy working with you!"
+  }
+];
+
 export const certifications = [
   {
     name: "PMP®",
