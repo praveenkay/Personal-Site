@@ -1,5 +1,5 @@
 import { ArrowUpRight, Download, MapPin } from "lucide-react";
-import { heroCapabilities, metrics, profile } from "@/lib/profile";
+import { heroCapabilities, profile } from "@/lib/profile";
 
 export function Hero() {
   return (
@@ -40,17 +40,13 @@ export function Hero() {
           </div>
         </div>
 
-        <div className="grid gap-4">
+        <div className="flex flex-col gap-4">
           <div className="overflow-hidden rounded-[1.5rem] border p-3 shadow-soft" style={{ borderColor: "var(--line)", background: "var(--card)" }}>
             <img src={profile.headshot} alt="Professional headshot of Praveen Kothapally" className="aspect-[4/3] w-full rounded-[1rem] object-cover object-top" />
           </div>
-          <div className="grid grid-cols-2 gap-3">
-            {metrics.map(([value, label]) => (
-              <div key={label} className="rounded-2xl border p-4" style={{ borderColor: "var(--line)", background: "var(--card)" }}>
-                <p className="text-2xl font-semibold tracking-[-0.04em]">{value}</p>
-                <p className="mt-1 text-xs leading-5" style={{ color: "var(--muted)" }}>{label}</p>
-              </div>
-            ))}
+          <div className="rounded-[1.25rem] border p-5" style={{ borderColor: "var(--line)", background: "var(--card)" }}>
+            <p className="text-xs font-mono uppercase tracking-[0.18em]" style={{ color: "var(--muted)" }}>Open to</p>
+            <p className="mt-2 text-sm leading-6" style={{ color: "var(--muted)" }}>Senior Program Manager · Technical Program Manager · Release Governance Lead · GRC Technology Program Manager · Director, Delivery &amp; Governance</p>
           </div>
         </div>
       </div>

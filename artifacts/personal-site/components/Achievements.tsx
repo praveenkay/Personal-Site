@@ -7,7 +7,7 @@ export function Achievements() {
       id="impact"
       eyebrow="Delivery Impact"
       title="Measurable outcomes and leadership signals."
-      description="Proof points designed for recruiters, hiring managers, technology leaders, directors, and CIO-office audiences."
+      description="Concrete results from 22+ years of enterprise delivery, release governance, quality engineering, and Agile transformation."
     >
       <div className="mb-6 grid grid-cols-2 gap-3 md:grid-cols-3">
         {metrics.map(([value, label]) => (

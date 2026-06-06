@@ -159,11 +159,11 @@ export const caseStudies = [
 
 export const achievements = [
   "Owned end-to-end release governance across sprint readiness, production deployment coordination, validation, and closure.",
-  "Coordinated ISO 27001, ICIF, and PCI audit programs with cross-functional evidence management and control traceability.",
   "Led global delivery teams at VP level across banking and insurance technology programs.",
   "Reduced manual testing effort by 70% through automation engineering and DevOps practices.",
-  "Drove 20% productivity improvement and measurable cost savings through enterprise Agile transformation.",
-  "Designed AI-enabled products for underwriting, audit readiness, governance automation, and QA workflows."
+  "Drove 20% productivity improvement and $150K+ in savings through enterprise Agile transformation.",
+  "Delivered zero-defect releases for core banking platforms across multi-year programs.",
+  "Built AI-enabled tools for underwriting automation, governance, and QA delivery workflows."
 ];
 
 export const experience = [
