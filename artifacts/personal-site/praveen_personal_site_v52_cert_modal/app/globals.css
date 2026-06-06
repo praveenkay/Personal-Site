@@ -1,0 +1,80 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --paper: #f7f4ed;
+  --ink: #111111;
+  --muted: #666666;
+  --line: #e3ddd0;
+  --card: #fffcf5;
+  --accent: #1d4ed8;
+}
+
+[data-theme="dark"] {
+  --paper: #111111;
+  --ink: #f7f4ed;
+  --muted: #b7b1a7;
+  --line: rgba(247, 244, 237, 0.16);
+  --card: #191919;
+  --accent: #93c5fd;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font-size: 16px;
+}
+
+::selection {
+  background: var(--ink);
+  color: var(--paper);
+}
+
+.site-bg {
+  background:
+    radial-gradient(circle at 15% 10%, rgba(29, 78, 216, 0.08), transparent 28rem),
+    radial-gradient(circle at 90% 30%, rgba(17, 17, 17, 0.06), transparent 24rem),
+    var(--paper);
+}
+
+[data-theme="dark"] .site-bg {
+  background:
+    radial-gradient(circle at 15% 10%, rgba(59, 130, 246, 0.18), transparent 28rem),
+    radial-gradient(circle at 90% 30%, rgba(255, 255, 255, 0.08), transparent 24rem),
+    var(--paper);
+}
+
+.text-balance {
+  text-wrap: balance;
+}
+
+.reveal {
+  animation: rise 650ms ease-out both;
+}
+
+@media print {
+  header,
+  footer,
+  .no-print {
+    display: none !important;
+  }
+
+  body {
+    background: white !important;
+    color: black !important;
+  }
+
+  main {
+    padding: 0 !important;
+  }
+
+  section {
+    box-shadow: none !important;
+  }
+}

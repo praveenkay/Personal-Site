@@ -1,0 +1,30 @@
+kind = "web"
+previewPath = "/"
+title = "Personal Site"
+version = "1.0.0"
+
+[[services]]
+localPort = 3001
+name = "Personal Site"
+paths = ["/"]
+
+[services.development]
+run = "pnpm --filter @workspace/personal-site run dev"
+
+[services.development.env]
+PORT = "3001"
+
+[services.production]
+
+[services.production.build]
+args = ["pnpm", "--filter", "@workspace/personal-site", "run", "build"]
+
+[services.production.build.env]
+NODE_ENV = "production"
+
+[services.production.run]
+args = ["pnpm", "--filter", "@workspace/personal-site", "run", "start"]
+
+[services.production.run.env]
+PORT = "3001"
+NODE_ENV = "production"
