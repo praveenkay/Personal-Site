@@ -1,5 +1,5 @@
 import { ArrowUpRight, Download, MapPin } from "lucide-react";
-import { heroCapabilities, profile, targetRoles } from "@/lib/profile";
+import { heroCapabilities, profile } from "@/lib/profile";
 
 export function Hero() {
   return (
@@ -46,10 +46,6 @@ export function Hero() {
         <div className="flex flex-col gap-4">
           <div className="overflow-hidden rounded-[1.5rem] border p-3 shadow-soft" style={{ borderColor: "var(--line)", background: "var(--card)" }}>
             <img src={profile.headshot} alt="Professional headshot of Praveen Kothapally" className="aspect-[4/3] w-full rounded-[1rem] object-cover object-top" />
-          </div>
-          <div className="rounded-[1.25rem] border p-5" style={{ borderColor: "var(--line)", background: "var(--card)" }}>
-            <p className="text-xs font-mono uppercase tracking-[0.18em]" style={{ color: "var(--muted)" }}>Open to</p>
-            <p className="mt-2 text-sm leading-6" style={{ color: "var(--muted)" }}>{targetRoles.join(" · ")}</p>
           </div>
         </div>
       </div>
