@@ -1,5 +1,5 @@
 import { ArrowUpRight, Download, MapPin } from "lucide-react";
-import { heroCapabilities, profile } from "@/lib/profile";
+import { heroCapabilities, profile, targetRoles } from "@/lib/profile";
 
 export function Hero() {
   return (
@@ -9,11 +9,14 @@ export function Hero() {
           <p className="font-mono text-xs uppercase tracking-[0.22em]" style={{ color: "var(--muted)" }}>
             {profile.roleLine}
           </p>
+          <p className="mt-1 text-sm font-medium" style={{ color: "var(--accent)" }}>
+            {profile.roleSubline}
+          </p>
           <h1 className="mt-5 max-w-4xl text-balance text-4xl font-semibold tracking-[-0.045em] md:text-6xl">
             {profile.headline}
           </h1>
           <p className="mt-4 text-sm leading-6" style={{ color: "var(--muted)" }}>
-            {profile.heroSubheading}
+            {profile.intro}
           </p>
           <ul className="mt-5 grid grid-cols-2 gap-y-2 gap-x-4">
             {heroCapabilities.map((cap) => (
@@ -46,7 +49,7 @@ export function Hero() {
           </div>
           <div className="rounded-[1.25rem] border p-5" style={{ borderColor: "var(--line)", background: "var(--card)" }}>
             <p className="text-xs font-mono uppercase tracking-[0.18em]" style={{ color: "var(--muted)" }}>Open to</p>
-            <p className="mt-2 text-sm leading-6" style={{ color: "var(--muted)" }}>Senior Program Manager · Technical Program Manager · Release Governance Lead · GRC Technology Program Manager · Director, Delivery &amp; Governance</p>
+            <p className="mt-2 text-sm leading-6" style={{ color: "var(--muted)" }}>{targetRoles.join(" · ")}</p>
           </div>
         </div>
       </div>

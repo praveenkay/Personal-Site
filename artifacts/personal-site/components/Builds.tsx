@@ -6,9 +6,9 @@ export function Builds() {
   return (
     <Section
       id="builds"
-      eyebrow="Innovation & AI Initiatives"
-      title="Building the tools I wish existed in delivery and governance work."
-      description="Each initiative is grounded in a real operational problem — audit readiness, release governance, underwriting efficiency, and delivery tooling. Built by a practitioner, not a hobbyist."
+      eyebrow="AI and Innovation"
+      title="Building practical tools around real governance problems."
+      description="Each initiative is grounded in an operational challenge I encounter directly — audit readiness, compliance management, underwriting decisions, and delivery governance. Built by a practitioner with hands-on experience in each domain."
     >
       <div className="grid gap-4 md:grid-cols-2">
         {caseStudies.map((project) => (

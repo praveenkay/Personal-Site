@@ -3,7 +3,7 @@ import { Section } from "./Section";
 
 export function Experience() {
   return (
-    <Section id="experience" eyebrow="Experience" title="Selected leadership experience." description="Focused on the recent experience most relevant to hiring managers, directors, CIOs, recruiters, and technology leaders.">
+    <Section id="experience" eyebrow="Professional Experience" title="Selected leadership experience." description="Senior technology leadership across banking, financial services, and insurance.">
       <div className="grid gap-4">
         {experience.map((job) => (
           <article key={job.company} className="rounded-[1.5rem] border p-6" style={{ borderColor: "var(--line)", background: "var(--card)" }}>
@@ -11,7 +11,10 @@ export function Experience() {
               <div>
                 <p className="font-mono text-xs uppercase tracking-[0.18em]" style={{ color: "var(--muted)" }}>{job.period}</p>
                 <h3 className="mt-3 text-2xl font-semibold tracking-[-0.04em]">{job.company}</h3>
-                <p className="mt-1" style={{ color: "var(--muted)" }}>{job.role}</p>
+                {job.companyNote ? (
+                  <p className="mt-0.5 text-xs italic" style={{ color: "var(--muted)" }}>{job.companyNote}</p>
+                ) : null}
+                <p className="mt-1 font-medium" style={{ color: "var(--muted)" }}>{job.role}</p>
               </div>
             </div>
             <ul className="mt-5 grid gap-3 md:grid-cols-2">

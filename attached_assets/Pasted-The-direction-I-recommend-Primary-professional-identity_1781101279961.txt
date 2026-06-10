@@ -1,0 +1,260 @@
+The direction I recommend
+Primary professional identity
+Position yourself as:
+Technology Governance & Transformation Leader
+Specializing in:
+AI governance, technology risk, regulatory readiness, release governance, and enterprise delivery transformation.
+This is stronger than presenting yourself principally as a Scrum Master or generic program manager.
+It combines your most defensible strengths:
+22+ years in technology;
+banking and insurance experience;
+VP-level technology leadership;
+global program delivery;
+release and operational governance;
+quality engineering;
+ISO 27001, PCI, ICIF and audit readiness;
+practical AI product building;
+executive stakeholder coordination.
+This lane gives you access to several job families without making your identity look scattered:
+Director, Technology Governance
+Director, Technology Risk and Controls
+Senior Technical Program Manager
+Director, Delivery Excellence
+AI Governance Program Lead
+Technology Transformation Director
+GRC Technology Program Manager
+Operational Resilience Program Lead
+Director, Release and Quality Governance
+Senior Manager, Technology Controls
+Your website should have one identity, while your résumé can have two or three targeted versions.
+What is currently weakening the site
+1. The opening title is overloaded
+Your current headline says:
+Technology Delivery Leader | Program Manager | Release Governance | Audit & Compliance | Agile Transformation
+It contains five different identities.
+“Program Manager” and “Agile Transformation” make you sound broader but less differentiated. “Audit & Compliance” may make you sound like a coordinator rather than a governance leader.
+Replace it with:
+Technology Governance & Transformation Leader
+AI Governance · Technology Risk · Delivery Excellence · Regulatory Readiness
+That sounds senior, current and coherent.
+2. Your site still gives Scrum Master too much prominence
+Your current Travelex title, career timeline, skills, open roles, and delivery descriptions repeatedly reference Scrum Master and Agile ceremonies.
+Do not hide that experience, but stop making it central.
+At your career stage, Scrum should appear as a delivery capability—not your professional identity.
+A director or senior manager is not hired because they can facilitate ceremonies. They are hired because they:
+improve execution predictability;
+reduce operational risk;
+clarify accountability;
+establish governance;
+prepare organizations for audits;
+manage enterprise dependencies;
+provide leadership visibility;
+enable transformation.
+3. There is too much repeated information
+The site contains:
+an executive summary;
+delivery impact;
+problems you solve;
+detailed experience;
+career path;
+GRC section;
+skills;
+open-to-opportunities section;
+another “let’s connect” section.
+Several sections repeat the same ideas.
+This makes the portfolio feel longer rather than stronger.
+A senior executive portfolio should communicate:
+Who you are.
+What problems you solve.
+What results you have delivered.
+Evidence of your experience.
+What you are building now.
+How to contact you.
+4. Some claims need stronger proof or qualification
+The site currently states:
+100+ enterprise releases;
+$250K+ savings;
+multi-million-dollar programs;
+zero-defect releases;
+35+ frameworks;
+six AI agents;
+“production AI compliance OS.”
+These are powerful claims, but hiring managers may ask how each was measured.
+Keep the claims that you can clearly demonstrate. For the rest, use more defensible language such as:
+“Coordinated enterprise release portfolios across banking and insurance.”
+“Delivered documented savings exceeding $250K through automation and process improvements.”
+“Built a working AI-enabled compliance platform supporting control libraries across more than 35 frameworks.”
+“Designed six specialist AI-assisted workflows.”
+Do not use “production” unless real external users rely on the product in an operational environment. “Working platform” or “deployed product” is safer.
+5. Be precise about employer relationships
+You currently use:
+Travelex Insurance — Zurich / Cover-More Group
+and describe experience across “BNP Paribas, Travelex Insurance, Zurich, and Cover-More.”
+That could be interpreted as direct employment at Zurich and Cover-More.
+A clearer version is:
+Travelex Insurance Services, a Cover-More Group company within Zurich Insurance Group
+Then say:
+“Partnered with stakeholders across Travelex, Cover-More and Zurich.”
+This protects credibility while still showing the organizational scale.
+Recommended website structure
+Use these seven sections:
+Hero
+Leadership value
+Selected outcomes
+Experience
+Governance and AI expertise
+Selected products and initiatives
+Contact
+Remove the separate “Career Path” section. It repeats your experience.
+Combine “Delivery Impact” and “Problems I Solve.”
+Combine “Open to Opportunities” and “Let’s Connect.”
+Move certifications near the bottom.
+Replacement website copy
+Below is the positioning and content I recommend using.
+HERO SECTION
+Praveen Kothapally
+Technology Governance & Transformation Leader
+AI Governance · Technology Risk · Delivery Excellence · Regulatory Readiness
+I help regulated organizations turn complex technology, risk, and delivery environments into governed, predictable and audit-ready operating models.
+
+With more than 22 years of experience across banking, financial services and insurance, I bring together technology delivery, risk management, release governance, quality engineering, regulatory readiness and practical AI transformation.
+
+Based in Minneapolis, Minnesota
+
+[View Experience] [Explore My Work] [Download Résumé] [Connect on LinkedIn]
+
+LEADERSHIP PROFILE
+Turning fragmented technology operations into governed outcomes
+Organizations often struggle because delivery, risk, compliance, quality and technology teams operate through disconnected processes.
+I help leadership establish the structure needed to improve execution and reduce risk:
+
+Clear accountability and decision-making
+Predictable program and release execution
+Technology control and audit readiness
+Cross-functional governance
+Executive reporting and visibility
+Quality and operational resilience
+Responsible adoption of AI-enabled workflows
+My background spans senior technology leadership, enterprise program delivery, release governance, quality transformation and regulatory coordination across global banking and insurance environments.
+WHERE I CREATE VALUE
+Technology Governance
+Establishing operating models, ownership structures, governance forums, decision controls, executive reporting and traceability across complex technology initiatives.
+Technology Risk and Regulatory Readiness
+Connecting technology delivery with ISO 27001, internal controls, PCI, third-party risk, evidence management, audit response and remediation tracking.
+Delivery and Release Excellence
+Improving release readiness, dependency management, deployment governance, production validation, stakeholder communication and post-release accountability.
+AI Governance and Process Transformation
+Applying AI to practical governance, compliance, documentation, control mapping, evidence management and operational decision-support workflows.
+Quality and Operational Resilience
+Strengthening quality engineering, automation, production confidence, release controls and continuous improvement across enterprise platforms.
+SELECTED LEADERSHIP OUTCOMES
+More than 22 years of enterprise technology experience across banking, financial services and insurance.
+Led global and cross-functional technology teams in vice-president and senior leadership roles.
+Supported multi-million-dollar technology transformation and platform modernization initiatives.
+Reduced manual testing effort by approximately 70% through automation and engineering practices.
+Delivered documented cost savings exceeding $250,000 through automation and process improvements.
+Improved delivery productivity by approximately 20% through Agile operating-model transformation.
+Established release governance practices spanning planning, deployment, validation, communication and closure.
+Coordinated audit readiness, control evidence and remediation activities across technology and compliance teams.
+Built working AI-enabled products for compliance, underwriting and governance automation.
+PROFESSIONAL EXPERIENCE
+Travelex Insurance Services
+Program Manager — Technology Delivery, Governance and Compliance
+December 2023–Present
+Travelex Insurance Services is part of Cover-More Group within Zurich Insurance Group.
+
+Lead release governance across planning, readiness, deployment coordination, production validation and closure.
+Coordinate delivery across engineering, QA, business analysis, infrastructure, operations and business stakeholders.
+Develop release runbooks, deployment plans, validation standards, release calendars and leadership communications.
+Support ISO 27001, internal-control, PCI and third-party risk initiatives through evidence coordination, ownership tracking and audit response.
+Improve cross-functional delivery governance, accountability and executive visibility.
+Coach multiple delivery teams in planning, dependency management, continuous improvement and predictable execution.
+Explore AI-enabled approaches to governance documentation, evidence management and delivery operations.
+Bank of the West / BNP Paribas
+Vice President — Technology Manager
+October 2018–December 2023
+Led enterprise technology upgrade and transformation programs across retail banking operations.
+Managed global teams, vendors, software delivery risk and cross-functional execution.
+Delivered measurable productivity improvements through Agile transformation and process redesign.
+Reduced manual testing through automation engineering and DevOps practices.
+Established quality, release and delivery controls for critical banking platforms.
+Delivered documented savings through automation and operating-model improvements.
+Earlier Leadership Experience
+Apple, American Express, First Tech Federal Credit Union and Enterprise Banking Programs
+2002–2018
+Progressed through quality engineering, automation, consulting, test management, Scrum leadership and process-transformation roles.
+
+Led distributed technology and quality teams.
+Implemented scalable test automation and delivery-governance practices.
+Supported CRM, banking, data and enterprise application programs.
+Introduced Jira, Confluence, CI/CD, BDD and automated quality workflows.
+Improved release confidence through quality gates, traceability and operational discipline.
+GOVERNANCE, RISK AND COMPLIANCE
+Connecting compliance requirements to technology execution
+My differentiator is the ability to work across both delivery and governance.
+Areas of experience include:
+
+ISO 27001 audit readiness
+Internal technology controls
+ICIF control coordination
+PCI assessment support
+Evidence management
+Control ownership and traceability
+Risk and remediation tracking
+Third-party technology risk
+Release and change governance
+Production readiness
+Operational resilience
+Executive risk reporting
+Cross-functional audit response
+I do not approach compliance as a documentation-only exercise. I focus on embedding ownership, evidence and repeatable controls into day-to-day technology operations.
+AI AND INNOVATION
+Building practical tools around real governance problems
+AssureCore
+An AI-enabled governance, risk and compliance platform designed around the operational challenges of managing controls, evidence, risks, assessments and audit readiness.
+The working platform includes control libraries spanning more than 35 regulatory and industry frameworks, supported by specialist AI-assisted workflows.
+
+[Explore AssureCore]
+
+UnderwriterAI
+A multi-agent insurance prototype designed to assist with policy interpretation, routine underwriting decisions, broker support and consistent decision-making.
+[View Project]
+
+AgentVerse
+An experimental orchestration framework exploring how specialist AI agents can support governance reporting, audit documentation, evidence preparation and operational workflows.
+[View Project]
+
+Delivery and Quality Tools
+A collection of working tools for test management, Jira governance, workflow automation, documentation and delivery visibility.
+[View GitHub]
+
+LEADERSHIP PHILOSOPHY
+Technology transformation succeeds when governance is practical, accountability is visible and teams understand both the outcome and the reason behind it.
+My approach is based on five principles:
+
+Make ownership explicit.
+Connect governance to daily execution.
+Replace hidden work with measurable visibility.
+Automate repeatable effort without removing human accountability.
+Communicate risk early and in business language.
+CREDENTIALS
+Project Management Professional — PMP®
+SAFe® Agilist
+Scrum Master Certification
+AWS Certified Cloud Practitioner
+Bachelor of Engineering — Electrical and Electronics Engineering
+OPPORTUNITIES
+Leadership roles aligned with my experience
+I am focused on senior leadership opportunities involving:
+Technology Governance
+Technology Risk and Controls
+AI Governance
+Enterprise Transformation
+Delivery Excellence
+Regulatory Technology Programs
+Release and Operational Governance
+Quality and Resilience Transformation
+Target roles include Director, Senior Manager, Principal Program Manager and senior individual-contributor leadership positions.
+Let’s connect
+I welcome conversations with technology, risk, compliance, insurance, banking and transformation leaders working to improve governance and execution.
+[LinkedIn] [Email] [Download Résumé]

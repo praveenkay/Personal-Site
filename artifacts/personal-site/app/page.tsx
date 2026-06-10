@@ -10,7 +10,6 @@ import { Nav } from "@/components/Nav";
 import { Recommendations } from "@/components/Recommendations";
 import { Skills } from "@/components/Skills";
 import { TargetRoles } from "@/components/TargetRoles";
-import { Timeline } from "@/components/Timeline";
 import { WhatISolve } from "@/components/WhatISolve";
 
 export default function Home() {
@@ -23,7 +22,6 @@ export default function Home() {
         <Achievements />
         <WhatISolve />
         <Experience />
-        <Timeline />
         <Builds />
         <GRC />
         <Recommendations />

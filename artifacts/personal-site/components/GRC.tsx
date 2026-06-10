@@ -6,8 +6,8 @@ export function GRC() {
     <Section
       id="grc"
       eyebrow="Governance, Risk & Compliance"
-      title="A differentiator most program managers cannot claim."
-      description="Direct experience supporting regulatory audit programs, coordinating evidence management, and maintaining control frameworks across banking and insurance organizations."
+      title="Connecting compliance requirements to technology execution."
+      description="My differentiator is the ability to work across both delivery and governance. I do not approach compliance as a documentation exercise — I focus on embedding ownership, evidence, and repeatable controls into day-to-day technology operations."
     >
       <div className="grid gap-3 md:grid-cols-2">
         {grcItems.map((item) => (
@@ -28,7 +28,7 @@ export function GRC() {
           Current context
         </p>
         <p className="mt-4 leading-7" style={{ color: "var(--muted)" }}>
-          At Travelex Insurance / Zurich-Cover-More, I support ISO 27001 audit coordination, ICIF controls, PCI compliance, third-party risk governance, evidence repository management, and cross-functional audit response across engineering and compliance teams.
+          At Travelex Insurance Services (part of Cover-More Group within Zurich Insurance Group), I support ISO 27001 audit coordination, ICIF controls, PCI compliance, third-party risk governance, evidence repository management, and cross-functional audit response — partnering with stakeholders across Travelex, Cover-More, and Zurich.
         </p>
       </div>
     </Section>

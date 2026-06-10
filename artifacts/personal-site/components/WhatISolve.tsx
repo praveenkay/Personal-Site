@@ -5,9 +5,9 @@ export function WhatISolve() {
   return (
     <Section
       id="what-i-solve"
-      eyebrow="Problems I solve"
-      title="Where I add the most value."
-      description="Leaders hire me when they need governance, delivery confidence, and execution maturity — not just Agile ceremonies."
+      eyebrow="Where I create value"
+      title="The problems organizations bring me in to solve."
+      description="Senior technology leaders engage me when they need governance clarity, delivery accountability, regulatory readiness, and operational discipline — not just process facilitation."
     >
       <div className="grid gap-3 sm:grid-cols-2 md:grid-cols-4">
         {whatISolve.map((item) => (

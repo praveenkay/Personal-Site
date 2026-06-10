@@ -4,10 +4,10 @@ import { Section } from "./Section";
 
 export function Contact() {
   return (
-    <Section id="contact" eyebrow="Let's connect" title="Let's discuss delivery, governance, and transformation.">
+    <Section id="contact" eyebrow="Let's connect" title="Open to conversations with technology, risk, and transformation leaders.">
       <div className="rounded-[1.5rem] border p-6" style={{ borderColor: "var(--line)", background: "var(--card)" }}>
         <p className="leading-7" style={{ color: "var(--muted)" }}>
-          Best fit: Senior Program Manager, Release Governance Lead, Delivery Excellence Lead, Technology Operations Manager, GRC Technology Program Manager, and Director-level Delivery & Governance roles.
+          I welcome conversations with technology, risk, compliance, insurance, banking, and transformation leaders working to improve governance and execution. Whether you are hiring, exploring a collaboration, or building something in this space — reach out.
         </p>
         <div className="mt-6 grid gap-3 md:grid-cols-2">
           <a className="flex items-center justify-between rounded-xl border p-4" style={{ borderColor: "var(--line)", background: "var(--paper)" }} href={`mailto:${profile.email}`}>

@@ -5,9 +5,9 @@ export function Bio() {
   return (
     <Section
       id="summary"
-      eyebrow="Executive Summary"
-      title="Turning delivery complexity into predictable, governed outcomes."
-      description="Focused on the work leaders actually need done: alignment, governance, execution, evidence, communication, and follow-through."
+      eyebrow="Leadership Profile"
+      title="Turning fragmented technology operations into governed outcomes."
+      description="Organizations often struggle because delivery, risk, compliance, quality, and technology teams operate through disconnected processes. I help leadership establish the structure needed to improve execution and reduce risk."
     >
       <div className="grid gap-5 md:grid-cols-[0.9fr_1.1fr]">
         <div className="rounded-[1.5rem] border p-6" style={{ borderColor: "var(--line)", background: "var(--card)" }}>

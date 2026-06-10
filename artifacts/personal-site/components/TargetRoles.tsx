@@ -7,9 +7,9 @@ export function TargetRoles() {
   return (
     <Section
       id="opportunities"
-      eyebrow="Open to opportunities"
-      title="Let's discuss delivery, governance, and transformation."
-      description="Actively exploring senior leadership roles where governance maturity, release excellence, and delivery leadership create real organizational value."
+      eyebrow="Opportunities"
+      title="Leadership roles aligned with my experience."
+      description="Focused on senior leadership opportunities involving technology governance, technology risk and controls, AI governance, enterprise transformation, delivery excellence, regulatory technology, and operational resilience. Target roles include Director, Senior Manager, Principal Program Manager, and senior individual-contributor leadership positions."
     >
       <div className="flex flex-wrap gap-3">
         {targetRoles.map((role) => (
