@@ -10,7 +10,7 @@ export const profile = {
   resumePdf: "/Praveen_Kothapally_Resume.pdf",
   resumePage: "/resume",
   headshot: "/headshot.png",
-  headline: "I help regulated organizations run technology that's controlled, predictable, and audit-ready.",
+  headline: "I help organizations run technology that's controlled, predictable, and audit-ready.",
   intro:
     "With more than 22 years of experience across banking, financial services, and insurance, I bring together technology delivery, risk management, release governance, quality engineering, regulatory readiness, and practical AI transformation.",
   heroSubheading:
