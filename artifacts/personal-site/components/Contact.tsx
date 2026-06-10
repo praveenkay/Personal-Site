@@ -11,7 +11,7 @@ export function Contact() {
         </p>
         <div className="mt-6 grid gap-3 md:grid-cols-2">
           <a className="flex items-center justify-between rounded-xl border p-4" style={{ borderColor: "var(--line)", background: "var(--paper)" }} href={`mailto:${profile.email}`}>
-            <span className="flex items-center gap-3"><Mail size={17} /> {profile.email}</span><ArrowUpRight size={17} />
+            <span className="flex items-center gap-3"><Mail size={17} /> Contact Praveen</span><ArrowUpRight size={17} />
           </a>
           <a className="flex items-center justify-between rounded-xl border p-4" style={{ borderColor: "var(--line)", background: "var(--paper)" }} href={profile.linkedin} target="_blank" rel="noopener noreferrer">
             <span className="flex items-center gap-3"><Linkedin size={17} /> LinkedIn</span><ArrowUpRight size={17} />
