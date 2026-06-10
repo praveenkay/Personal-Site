@@ -119,7 +119,7 @@ Certifications: PMP® · SAFe® 6 Agilist · AWS Certified Cloud Practitioner ·
 
 ## AI and Innovation
 
-**AssureCore** — A working AI-enabled governance, risk, and compliance platform designed around the operational challenges of managing controls, evidence, risks, assessments, and audit readiness. Includes control libraries spanning more than 35 regulatory and industry frameworks, supported by specialist AI-assisted workflows. *Deployed at assurecore.replit.app*
+**AssureCore** — A working AI-enabled governance, risk, and compliance platform designed around the operational challenges of managing controls, evidence, risks, assessments, and audit readiness. Includes control libraries spanning more than 35 regulatory and industry frameworks, supported by specialist AI-assisted workflows.
 
 **UnderwriterAI** — A multi-agent insurance prototype designed to assist with policy interpretation, routine underwriting decisions, broker support, and consistent decision-making.
 

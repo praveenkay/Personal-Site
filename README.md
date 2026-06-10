@@ -2,7 +2,7 @@
 
 Personal portfolio and professional identity site for Praveen Kothapally, Technology Governance & Transformation Leader.
 
-**Live site:** [praveenkay.replit.app](https://praveenkay.replit.app)
+**Live site:** [praveenkay.me](https://praveenkay.me)
 
 ---
 
@@ -32,7 +32,7 @@ This site positions Praveen's professional identity around technology governance
 - **Styling:** Tailwind CSS v3
 - **Language:** TypeScript
 - **Package manager:** pnpm (monorepo workspace)
-- **Deployment:** Replit
+- **Hosting:** praveenkay.me
 
 ## Project Structure
 

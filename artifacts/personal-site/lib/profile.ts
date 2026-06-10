@@ -136,7 +136,7 @@ export const caseStudies = [
     label: "AI Governance, Risk & Compliance Platform · 35+ Frameworks",
     problem: "Compliance teams can't afford audit chaos — chasing evidence, managing control gaps across spreadsheets, and fire-drilling every audit cycle with no unified system of record.",
     approach: "Built AssureCore — a working AI-enabled governance, risk, and compliance platform designed around the operational challenges of managing controls, evidence, risks, assessments, and audit readiness across more than 35 regulatory and industry frameworks.",
-    outcome: "A deployed, working platform at assurecore.replit.app — built by a practitioner who coordinates these audit programs daily. Includes specialist AI-assisted workflows for compliance documentation, control mapping, and evidence management.",
+    outcome: "A deployed, working platform built by a practitioner who coordinates these audit programs daily. Includes specialist AI-assisted workflows for compliance documentation, control mapping, and evidence management.",
     repo: "",
     link: "https://assurecore.replit.app"
   },
