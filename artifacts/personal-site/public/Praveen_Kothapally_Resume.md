@@ -107,7 +107,7 @@ Certifications: PMP® · SAFe® 6 Agilist · AWS Certified Cloud Practitioner ·
 
 ## Innovation & AI Initiatives
 
-**AssureCore** (2025) — Built a production AI compliance OS covering controls, evidence, risk, and reporting across 35+ frameworks (ISO 27001, SOC 2, PCI DSS, GDPR, HIPAA, NIST CSF, FedRAMP, and more), powered by 6 specialist AI agents. Built by a practitioner who runs these audit programs daily. *Live at assurecore.replit.app · GitHub: praveenkay/AssureCore*
+**AssureCore** (2025) — Built a production AI compliance OS covering controls, evidence, risk, and reporting across 35+ frameworks (ISO 27001, SOC 2, PCI DSS, GDPR, HIPAA, NIST CSF, FedRAMP, and more), powered by 6 specialist AI agents. Built by a practitioner who runs these audit programs daily. *Live at assurecore.replit.app*
 
 **UnderwriterAI** (2025) — Architected a TypeScript multi-agent AI platform to automate routine underwriting decisions, surface policy intelligence, and provide real-time broker support. Built during active work in the insurance sector.
 

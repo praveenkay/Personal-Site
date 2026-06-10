@@ -128,7 +128,7 @@ export const caseStudies = [
     problem: "Compliance teams can't afford audit chaos — chasing evidence, managing control gaps across spreadsheets, and fire-drilling every audit cycle with no unified system of record.",
     approach: "Built AssureCore — a production AI compliance OS with controls, evidence, risk, and reporting across 35+ frameworks (ISO 27001, SOC 2, PCI DSS, GDPR, HIPAA, NIST, FedRAMP, and more), powered by 6 specialist AI agents in a unified workspace.",
     outcome: "A live, fully deployed product at assurecore.replit.app — built by a practitioner who runs these audit programs daily. Stop preparing for audits. Stay compliant, year-round.",
-    repo: "https://github.com/praveenkay/AssureCore",
+    repo: "",
     link: "https://assurecore.replit.app"
   },
   {
