@@ -2,53 +2,55 @@
 **Technology Governance & Transformation Leader**
 AI Governance · Technology Risk · Delivery Excellence · Regulatory Readiness
 
-📧 praveenkay@gmail.com · 📞 +1 (408) 242-9200 · 🔗 linkedin.com/in/praveenkay · Minneapolis, Minnesota
++1 (408) 242-9200 · praveenkay@gmail.com · linkedin.com/in/praveenkay · praveenkay.me · Lakeville, MN (Minneapolis-St. Paul Area)
 
 ---
 
 ## Professional Summary
 
-Technology Governance & Transformation Leader with more than 22 years of experience across banking, financial services, and insurance. I help regulated organizations establish the structure needed to improve execution and reduce risk: clear accountability, predictable program delivery, technology control and audit readiness, cross-functional governance, and responsible AI adoption.
+Technology Governance & Transformation Leader with 22+ years across banking, financial services, and insurance. Expertise connecting technology delivery with ISO 27001, ICIF, PCI, third-party risk, evidence management, audit response, and remediation tracking. Hands-on AI practitioner building production-ready GRC prototypes. Certified PMP, SAFe 6 Agilist, AWS Cloud Practitioner, and Scrum Master.
 
-My background spans senior technology leadership, enterprise program delivery, release governance, quality transformation, and regulatory coordination across global banking and insurance environments.
-
-Key strengths: Technology Governance · Technology Risk · Release Governance · ISO 27001 / ICIF / PCI · AI Governance · Regulatory Readiness · Delivery Excellence
-
-Certifications: PMP® · SAFe® 6 Agilist · AWS Certified Cloud Practitioner · Scrum Master Accredited Certification
+**Core Competencies:** ISO 27001 · Technology Risk · Audit & Compliance · GRC · Regulatory Readiness · Third-Party Risk · Evidence Management · AI Governance
 
 ---
 
 ## Professional Experience
 
-### Travelex Insurance Services · Remote, MN
-*Part of Cover-More Group within Zurich Insurance Group*
+### Travelex Insurance Services (Zurich Insurance Group / Cover-More Group) · Remote, MN
 
 **Program Manager — Technology Delivery, Governance and Compliance**
 *Dec 2023 – Present*
 
-- Lead release governance across planning, readiness, deployment coordination, production validation, and closure.
 - Coordinate delivery across engineering, QA, business analysis, infrastructure, operations, and business stakeholders.
-- Develop release runbooks, deployment plans, validation standards, release calendars, and leadership communications.
 - Support ISO 27001, internal-control, PCI, and third-party risk initiatives through evidence coordination, ownership tracking, and audit response.
 - Improve cross-functional delivery governance, accountability, and executive visibility.
-- Coach multiple delivery teams in planning, dependency management, continuous improvement, and predictable execution.
 - Explore AI-enabled approaches to governance documentation, evidence management, and delivery operations.
-- Partner with stakeholders across Travelex, Cover-More, and Zurich Insurance Group.
+- Spearheaded Third-Party Risk Management (TPRM) process implementation with cross-functional stakeholders.
+- Lead release governance across planning, readiness, deployment coordination, production validation, and closure.
+- Coach multiple delivery teams in planning, dependency management, continuous improvement, and predictable execution.
+- Manage sanction screening governance including rollout support, production monitoring, and file cadence oversight.
+- Develop release runbooks, deployment plans, validation standards, release calendars, and leadership communications.
+- Built and maintain centralized evidence repositories in Confluence and SharePoint, improving audit response efficiency.
+- Develop control traceability across RACE, Zurich control frameworks, and internal implementation activities.
+- Coordinate evidence collection, action-item follow-up, and meeting preparation for audit, risk, and compliance reviews.
+- Received the Care and Collaboration Award for outstanding contributions in audit and compliance improvements.
 
 ---
 
 ### Bank of the West / BNP Paribas · Omaha, NE
 
-**Vice President — Technology Manager**
+**Vice President — Technology Manager / Scrum Master**
 *Oct 2018 – Dec 2023*
 
 - Led enterprise technology upgrade and transformation programs across retail banking operations.
 - Managed global teams, vendors, software delivery risk, and cross-functional execution.
-- Delivered measurable productivity improvements through Agile transformation and process redesign.
-- Reduced manual testing effort by approximately 70% through automation engineering and DevOps practices.
+- Delivered ~20% delivery productivity improvement through Agile transformation and process redesign.
+- Reduced manual testing ~70% through automation engineering and DevOps practices.
+- Delivered documented savings exceeding $250K through automation and operating-model improvements.
+- Created project delivery and maturity roadmaps across UI, API, and database layers aligned with strategic objectives.
 - Established quality, release, and delivery controls for critical banking platforms.
-- Delivered documented savings exceeding $250,000 through automation and operating-model improvements.
-- Improved delivery productivity by approximately 20% through Agile operating-model transformation.
+- Led globally co-located teams to execute short-term and long-term projects, fostering innovation and high performance.
+- Spearheaded seamless delivery of multi-million-dollar technology upgrades across all branches as trusted SME.
 
 ---
 
@@ -57,99 +59,93 @@ Certifications: PMP® · SAFe® 6 Agilist · AWS Certified Cloud Practitioner ·
 **Associate Vice President — Senior Lead Quality Assurance**
 *Dec 2017 – Oct 2018*
 
-- Led a geographically distributed QA team supporting critical core banking transformation programs.
-- Developed CI/CD-based automation frameworks for cross-browser, API, and mainframe testing.
-- Drove adoption of BDD and TDD engineering practices, improving test coverage and release confidence.
-- Coordinated release governance and quality gates across enterprise banking delivery programs.
+- Led 15-member geographically distributed QA team supporting critical core banking initiatives.
+- Developed CI/CD-based automation frameworks for cross-browser, API, and mainframe legacy applications.
+- Delivered zero-defect releases saving $200,000; designed automation solutions saving 200+ hours.
+- Promoted BDD and TDD best practices across delivery teams.
+- Used Agile practices: Daily Stand-ups, Sprint Planning, Prioritized backlogs, Retrospectives, and MVPs.
 
 ---
 
 ### Bank of the West / BNP Paribas · San Ramon, CA
 
-**Senior QA Consultant — Global Banking CRM, Solutions Delivery**
+**Senior QA Consultant — Global Banking CRM**
 *Dec 2015 – Dec 2017*
 
-- Led quality engineering on core banking and Salesforce CRM transformation programs.
-- Designed and delivered automation initiatives supporting zero-defect release goals.
-- Strengthened quality engineering across UI, API, and database layers.
+- Served as Scrum Master and Senior QA Consultant on core banking and CRM transformation projects.
+- Single-handedly designed and managed critical automation initiative contributing to zero-defect releases with $250,000 in savings.
+- Used PL/SQL, HP UFT, HP ALM, Jira, Confluence, and Xray to strengthen quality engineering.
+- Led Scrum Ceremonies and maintained delivery velocity for the projects.
 
 ---
 
-### First Tech Federal Credit Union · Portland, OR
+### Apple · American Express · First Tech FCU · Infosys · Accenture · Various, US & India
 
-**Senior QA Consultant — Core Banking & Salesforce CRM**
-*Sep 2014 – Dec 2015*
+**Technology Leadership — Quality Engineering & Program Management**
+*2002 – 2018*
 
-- Led QA delivery across two large credit union and banking implementation programs.
-- Implemented Kanban-based workflow improvements to improve delivery cadence and team throughput.
-- Strengthened production issue resolution through collaboration with engineering and transition teams.
-
----
-
-### American Express · Salt Lake City, UT
-
-**Test Manager — Global Banking Technology**
-*Feb 2014 – Sep 2014*
-
-- Led test management for a data services and reporting program within the global banking technology portfolio.
-- Established Agile delivery workflows, ETL validation processes, and CI/CD-integrated testing practices.
+- Implemented scalable test automation and delivery-governance practices across CRM, banking, data, and enterprise applications.
+- Led distributed technology and quality teams across onsite and offshore delivery models.
+- Progressed through quality engineering, automation, consulting, test management, and process-transformation roles.
+- Delivered zero-defect releases for core banking applications saving $200,000+ per engagement.
+- Built QA gating processes and implemented Agile methodologies across sales CRM at Apple.
+- Established fast-paced Agile processes and streamlined testing workflows at American Express.
+- Implemented Kanban approach in leading enterprise-solutions team at First Tech Federal Credit Union.
 
 ---
 
-### Apple · Cupertino, CA
+## AI & Innovation Initiatives
 
-**Process Implementation Manager / QA Lead — Sales CRM**
-*Dec 2010 – Feb 2014*
+**AssureCore — AI-Enabled GRC Platform**
+A working AI-enabled governance, risk, and compliance platform with 35+ regulatory and industry frameworks. Includes AI-assisted workflows for compliance documentation, control mapping, and evidence management. Designed around operational challenges of managing controls, evidence, risks, assessments, and audit readiness. Live demonstration available at praveenkay.me.
 
-- Managed QA delivery for Apple's Sales Systems CRM portfolio across onsite and offshore teams.
-- Established QA gating, Agile delivery standards, and automation frameworks using Selenium/Java.
-- Led multi-team coordination for large CRM releases with cross-boundary delivery partners.
+**UnderwriterAI — Multi-Agent Insurance Prototype**
+Designed a multi-agent insurance prototype to assist with policy interpretation, routine underwriting decisions, broker support, and consistent decision-making. Bridges domain expertise in insurance delivery with applied AI product thinking.
 
----
+**AgentVerse — AI Governance Orchestration Framework**
+Designed an experimental orchestration framework exploring how specialist AI agents can support governance reporting, audit documentation, evidence preparation, and operational workflows. AI applied to governance and delivery workflows grounded in real operational experience.
 
-### Earlier Roles — Infosys, Accenture, Alamy, Informa Technologies · India
-
-**Technical Test Lead / Senior Software Test Engineer**
-*May 2002 – Dec 2010*
-
-- Led test automation and QA delivery for enterprise clients across insurance, banking, and media domains.
-- Managed onsite-offshore delivery models and coordinated multi-team releases across distributed organizations.
+**Delivery & Quality Tools**
+A collection of working tools for test management, Jira governance, workflow automation, documentation, and delivery visibility. Built using Python, TypeScript, Flask, and Jira APIs — directly supporting release governance and QA maturity.
 
 ---
 
-## AI and Innovation
+## Governance & Compliance Expertise
 
-**AssureCore** — A working AI-enabled governance, risk, and compliance platform designed around the operational challenges of managing controls, evidence, risks, assessments, and audit readiness. Includes control libraries spanning more than 35 regulatory and industry frameworks, supported by specialist AI-assisted workflows.
+My differentiator is the ability to work across both delivery and governance — embedding ownership, evidence, and repeatable controls into day-to-day technology operations.
 
-**UnderwriterAI** — A multi-agent insurance prototype designed to assist with policy interpretation, routine underwriting decisions, broker support, and consistent decision-making.
-
-**AgentVerse** — An experimental orchestration framework exploring how specialist AI agents can support governance reporting, audit documentation, evidence preparation, and operational workflows.
-
-**Delivery & Quality Tools** — A collection of working tools for test management, Jira governance, workflow automation, documentation, and delivery visibility.
+- ISO 27001 audit readiness and coordination
+- Internal technology controls and ICIF control coordination
+- PCI assessment support
+- Evidence management and centralized repositories
+- Control ownership and traceability
+- Risk identification and remediation tracking
+- Third-party technology risk governance (TPRM)
 
 ---
 
-## Core Competencies
+## Technical Skills
 
-| Governance & Risk | Compliance & Audit | Delivery Leadership | Technology |
-|---|---|---|---|
-| Technology Governance | ISO 27001 | Program Management | Jira / Confluence |
-| Technology Risk | ICIF / PCI | Release Governance | Python / TypeScript |
-| Operational Resilience | Third-Party Risk | Stakeholder Management | AWS / CI/CD |
-| Executive Reporting | Control Evidence | Vendor Governance | AI Governance |
-| Decision Controls | Audit Response | Portfolio Coordination | SharePoint / XRAY |
+**Agile & Quality:** Scrum · Kanban · SAFe · Quality Engineering · Automation · CI/CD · Continuous Improvement
+
+**Compliance & Audit:** ISO 27001 · SOC 2 Type II · ICIF · PCI · Third-Party Risk · GDPR · Data Privacy · Control Evidence · Audit Response · Remediation Tracking
+
+**Technology & AI:** AI Governance · Python · TypeScript · AWS · Docker · Jira · Confluence · SharePoint · ServiceNow GRC · Splunk · GenAI · Prompt Engineering · Multi-Agent Systems
+
+**Delivery Leadership:** Program Management · Release Governance · Stakeholder Management · Vendor Management · Portfolio Coordination
 
 ---
 
 ## Education
 
-**Bangalore University** — B.E., Electrical & Electronics Engineering *(1998–2001)*
+**Bangalore University** — B.E., Electrical & Electronics Engineering (1998–2001)
 
 ---
 
 ## Certifications
 
-- **PMP®** — Project Management Institute (Credential ID 3302123 · Aug 2022 – Aug 2028)
-- **SAFe® 6 Agilist** — Scaled Agile Inc (Credential ID 89778697-1890 · Dec 2023 – Mar 2027)
-- **AWS Certified Cloud Practitioner** — Amazon Web Services (Jun 2023 – May 2029)
-- **Scrum Master Accredited Certification** — International Scrum Institute (Certificate No. 27392127347644)
+- **PMP®** — Project Management Institute (2021)
+- **SAFe® 6 Agilist** — Scaled Agile (2023)
+- **AWS Certified Cloud Practitioner** — Amazon Web Services (2024)
+- **Scrum Master Accredited Certification** — International Scrum Institute (2020)
+- **AZ-400 Designing and Implementing Microsoft DevOps Solutions** — Microsoft
